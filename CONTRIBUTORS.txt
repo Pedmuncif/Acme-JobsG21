@@ -9,4 +9,8 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Pedro Pablo Carvajal Moreno (pedcarmor@alum.us.es)
+- Pedro Jesús Muñoz Cifuentes (pedmuncif@alum.us.es)
+- Enrique Moreno Vazquez (enrmorvaz@alum.us.es)
 - Javier Hidalgo Rodríguez (javhidrod1@us.es)
+
