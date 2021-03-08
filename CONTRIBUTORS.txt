@@ -1,3 +1,4 @@
+
 # NOTICE.txt
 #
 # Copyright (c) 2012-2021 Rafael Corchuelo.
@@ -11,4 +12,5 @@
 - Rafael Corchuelo (corchu@us.es)
 - Pedro Pablo Carvajal Moreno (pedcarmor@alum.us.es)
 - Pedro Jesús Muñoz Cifuentes (pedmuncif@alum.us.es)
+- Enrique Moreno Vazquez (enrmorvaz@alum.us.es)
 
